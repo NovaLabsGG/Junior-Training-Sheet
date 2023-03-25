@@ -1,0 +1,15 @@
+C:\Users\Fahim\Unity\GameSwitch\docfx_project\src\Junior-Training-Sheet\CS\Template\bin\Debug\net7.0\Template.exe
+C:\Users\Fahim\Unity\GameSwitch\docfx_project\src\Junior-Training-Sheet\CS\Template\bin\Debug\net7.0\Template.deps.json
+C:\Users\Fahim\Unity\GameSwitch\docfx_project\src\Junior-Training-Sheet\CS\Template\bin\Debug\net7.0\Template.runtimeconfig.json
+C:\Users\Fahim\Unity\GameSwitch\docfx_project\src\Junior-Training-Sheet\CS\Template\bin\Debug\net7.0\Template.dll
+C:\Users\Fahim\Unity\GameSwitch\docfx_project\src\Junior-Training-Sheet\CS\Template\bin\Debug\net7.0\Template.pdb
+C:\Users\Fahim\Unity\GameSwitch\docfx_project\src\Junior-Training-Sheet\CS\Template\obj\Debug\net7.0\Template.csproj.AssemblyReference.cache
+C:\Users\Fahim\Unity\GameSwitch\docfx_project\src\Junior-Training-Sheet\CS\Template\obj\Debug\net7.0\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fahim\Unity\GameSwitch\docfx_project\src\Junior-Training-Sheet\CS\Template\obj\Debug\net7.0\Template.AssemblyInfoInputs.cache
+C:\Users\Fahim\Unity\GameSwitch\docfx_project\src\Junior-Training-Sheet\CS\Template\obj\Debug\net7.0\Template.AssemblyInfo.cs
+C:\Users\Fahim\Unity\GameSwitch\docfx_project\src\Junior-Training-Sheet\CS\Template\obj\Debug\net7.0\Template.csproj.CoreCompileInputs.cache
+C:\Users\Fahim\Unity\GameSwitch\docfx_project\src\Junior-Training-Sheet\CS\Template\obj\Debug\net7.0\Template.dll
+C:\Users\Fahim\Unity\GameSwitch\docfx_project\src\Junior-Training-Sheet\CS\Template\obj\Debug\net7.0\refint\Template.dll
+C:\Users\Fahim\Unity\GameSwitch\docfx_project\src\Junior-Training-Sheet\CS\Template\obj\Debug\net7.0\Template.pdb
+C:\Users\Fahim\Unity\GameSwitch\docfx_project\src\Junior-Training-Sheet\CS\Template\obj\Debug\net7.0\Template.genruntimeconfig.cache
+C:\Users\Fahim\Unity\GameSwitch\docfx_project\src\Junior-Training-Sheet\CS\Template\obj\Debug\net7.0\ref\Template.dll
